@@ -5,3 +5,5 @@
 
 для запуска программы lab-13 необходимо установить Java SE  Runtime Enviroment 8u202
 который доступен по ссылке https://www.oracle.com/technetwork/java/javase/8u202-relnotes-5209339.html
+
+для запуска использовать скрипт lab-10.bat находящийся в директории lab-10/bin
