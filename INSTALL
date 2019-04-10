@@ -1,7 +1,7 @@
-для сборки программы lab-10 неободимо установить Java SE Development Kit 8u202
-который доступен по ссылки https://www.oracle.com/technetwork/java/javase/downloads/2133151
+РґР»СЏ СЃР±РѕСЂРєРё РїСЂРѕРіСЂР°РјРјС‹ lab-13 РЅРµРѕР±С…РѕРґРёРјРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Java SE Development Kit 8u202
+РєРѕС‚РѕСЂС‹Р№ РґРѕСЃС‚СѓРїРµРЅ РїРѕ СЃСЃС‹Р»РєРµ https://www.oracle.com/technetwork/java/javase/downloads/2133151
 
-для сборки запустить скрипт built.bat 
+РґР»СЏ СЃР±РѕСЂРєРё Р·Р°РїСѓСЃС‚РёС‚СЊ СЃРєСЂРёРїС‚ built.bat 
 
-для запуска  программы lab-10 неободимо установить Java SE  Runtime Enviroment 8u202
-который доступен по ссылки https://www.oracle.com/technetwork/java/javase/8u202-relnotes-5209339.html
+РґР»СЏ Р·Р°РїСѓСЃРєР° РїСЂРѕРіСЂР°РјРјС‹ lab-13 РЅРµРѕР±С…РѕРґРёРјРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ Java SE  Runtime Enviroment 8u202
+РєРѕС‚РѕСЂС‹Р№ РґРѕСЃС‚СѓРїРµРЅ РїРѕ СЃСЃС‹Р»РєРµ https://www.oracle.com/technetwork/java/javase/8u202-relnotes-5209339.html
